@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> “A conscious human is driven by their conscience, not popular opinion.” Suzy Kassem
+
 <!--
 **LouisChu25/LouisChu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

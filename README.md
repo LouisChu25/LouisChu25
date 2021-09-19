@@ -12,6 +12,7 @@ Hi I'm Louis, 21 years old.
 ## What i like to do
 
 - Piano
+<img src="images/piano.gif" alt="piano" width="200"/>
 - Tennis
 - Listening to music
 - Reading

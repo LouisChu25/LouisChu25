@@ -9,6 +9,13 @@ Hi I'm Louis, 21 years old.
 
 <img src="images/wave.gif" alt="wave" width="200"/>
 
+## What i like to do
+
+- Piano
+- Tennis
+- Listening to music
+- Reading
+- Playing games
 
 <!--
 **LouisChu25/LouisChu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

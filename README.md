@@ -7,7 +7,7 @@
 ## Who am I ?
 Hi I'm Louis, 21 years old.
 ![waving hand]
-(https://:
+(/images/wave.gif)
 
 
 <!--

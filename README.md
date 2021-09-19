@@ -20,6 +20,9 @@ Hi I'm Louis, 21 years old.
 <img src="images/Tennis.gif" alt="Tennis" width="200"/>
 
 - Listening to music
+
+<img src="images/listening.gif" alt="listening to music" width="200"/>
+
 - Reading
 - Playing games
 

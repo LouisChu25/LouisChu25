@@ -29,6 +29,9 @@ Hi I'm Louis, 21 years old.
 
 - Playing games
 
+<img src="images/playinggames.gif" alt="playing games" width="200"/>
+
+
 <!--
 **LouisChu25/LouisChu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

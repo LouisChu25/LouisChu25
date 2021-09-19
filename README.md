@@ -11,12 +11,26 @@ Hi I'm Louis, 21 years old.
 
 ## What i like to do
 
-- Piano
-<img src="images/piano.gif" alt="piano" width="200"/>
+- Piano 
+
+<img src="images/Piano.gif" alt="Piano" width="200"/>
+
 - Tennis
+
+<img src="images/Tennis.gif" alt="Tennis" width="200"/>
+
 - Listening to music
+
+<img src="images/listening.gif" alt="listening to music" width="200"/>
+
 - Reading
+
+<img src="images/reading.gif" alt="reading" width="200"/>
+
 - Playing games
+
+<img src="images/playinggames.gif" alt="playing games" width="200"/>
+
 
 <!--
 **LouisChu25/LouisChu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

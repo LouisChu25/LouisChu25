@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> “A conscious human is driven by their conscience, not popular opinion.” Suzy Kassem
+> *“A conscious human is driven by their conscience, not popular opinion.” Suzy Kassem*
 
 ### Welcome to my profile
 

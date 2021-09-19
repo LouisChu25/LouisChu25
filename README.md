@@ -16,6 +16,9 @@ Hi I'm Louis, 21 years old.
 <img src="images/Piano.gif" alt="Piano" width="200"/>
 
 - Tennis
+
+<img src="images/Tennis.gif" alt="Tennis" width="200"/>
+
 - Listening to music
 - Reading
 - Playing games
